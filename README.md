@@ -1,0 +1,2 @@
+# paddleOCR
+Dec and Rec
