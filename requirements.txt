@@ -4,3 +4,4 @@ paddlepaddle==2.5.0
 pandas==2.0.3
 xlsxwriter==3.1.1
 scikit-learn==1.2.2
+fastwer
