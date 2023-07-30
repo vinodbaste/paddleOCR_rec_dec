@@ -36,7 +36,7 @@ if __name__ == "__main__":
 ```
 
 # 1. Text Detection
-The code you provided appears to be part of a class named DecMain, which seems to be designed for Optical Character Recognition (OCR) evaluation using ground truth data. It appears to use PaddleOCR to extract text from images and then calculates metrics like precision, recall, and Character Error Rate (CER) to evaluate the performance of the OCR system.
+The code provided is a part of a class named DecMain, which seems to be designed for Optical Character Recognition (OCR) evaluation using ground truth data. It appears to use PaddleOCR to extract text from images and then calculates metrics like precision, recall, and Character Error Rate (CER) to evaluate the performance of the OCR system.
 ```python
 class DecMain:
     def __init__(self, image_folder_path, label_file_path, output_file):
