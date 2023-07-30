@@ -1,0 +1,77 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="47">
+            <item index="0" class="java.lang.String" itemvalue="fastapi" />
+            <item index="1" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="2" class="java.lang.String" itemvalue="arrow" />
+            <item index="3" class="java.lang.String" itemvalue="jsonpath_rw" />
+            <item index="4" class="java.lang.String" itemvalue="logginglib" />
+            <item index="5" class="java.lang.String" itemvalue="pysaml2" />
+            <item index="6" class="java.lang.String" itemvalue="commonlib" />
+            <item index="7" class="java.lang.String" itemvalue="errorlib" />
+            <item index="8" class="java.lang.String" itemvalue="tx_manager_lib" />
+            <item index="9" class="java.lang.String" itemvalue="licencecontrollerutilslib" />
+            <item index="10" class="java.lang.String" itemvalue="pkm_entities_lib" />
+            <item index="11" class="java.lang.String" itemvalue="mongolib" />
+            <item index="12" class="java.lang.String" itemvalue="Flask_Cors" />
+            <item index="13" class="java.lang.String" itemvalue="concurrent-log-handler" />
+            <item index="14" class="java.lang.String" itemvalue="aeslib" />
+            <item index="15" class="java.lang.String" itemvalue="coverage" />
+            <item index="16" class="java.lang.String" itemvalue="versionlib" />
+            <item index="17" class="java.lang.String" itemvalue="kafkalib" />
+            <item index="18" class="java.lang.String" itemvalue="userrolevalidationlib" />
+            <item index="19" class="java.lang.String" itemvalue="paho_mqtt" />
+            <item index="20" class="java.lang.String" itemvalue="kafka-python" />
+            <item index="21" class="java.lang.String" itemvalue="simplejson" />
+            <item index="22" class="java.lang.String" itemvalue="bcrypt" />
+            <item index="23" class="java.lang.String" itemvalue="pandas" />
+            <item index="24" class="java.lang.String" itemvalue="customexceptionslib" />
+            <item index="25" class="java.lang.String" itemvalue="auditlogslib" />
+            <item index="26" class="java.lang.String" itemvalue="pkm_changecontrol_lib" />
+            <item index="27" class="java.lang.String" itemvalue="pycryptodome" />
+            <item index="28" class="java.lang.String" itemvalue="jsonpatch" />
+            <item index="29" class="java.lang.String" itemvalue="esprima" />
+            <item index="30" class="java.lang.String" itemvalue="Pillow" />
+            <item index="31" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="32" class="java.lang.String" itemvalue="altgraph" />
+            <item index="33" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="34" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="35" class="java.lang.String" itemvalue="google" />
+            <item index="36" class="java.lang.String" itemvalue="numpy" />
+            <item index="37" class="java.lang.String" itemvalue="python-multipart" />
+            <item index="38" class="java.lang.String" itemvalue="pyinstaller-hooks-contrib" />
+            <item index="39" class="java.lang.String" itemvalue="html2image" />
+            <item index="40" class="java.lang.String" itemvalue="elasticsearch" />
+            <item index="41" class="java.lang.String" itemvalue="jsonify" />
+            <item index="42" class="java.lang.String" itemvalue="starlette" />
+            <item index="43" class="java.lang.String" itemvalue="anyio" />
+            <item index="44" class="java.lang.String" itemvalue="cachetools" />
+            <item index="45" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="46" class="java.lang.String" itemvalue="google-auth" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N801" />
+          <option value="N803" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="detection.dec_main" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
